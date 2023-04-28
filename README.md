@@ -1,5 +1,5 @@
 # A1R!
-A game site made by BlazerHM!
+A game site made by BlazerHM and Airplay!
 *lol*
 
 
